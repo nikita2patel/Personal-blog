@@ -21,9 +21,20 @@
 }
 .box{
   margin-top: 20px;
+  background-color: gray;
+  
   
 }
 .box2:hover{
-  background-color: grey;
+  background-color:  gray;
+  transform: rotateY(180deg);
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+* {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;    
+}

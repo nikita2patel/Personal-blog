@@ -13,7 +13,7 @@ const Home = () => {
         <Container fluid>
           <div className='item'>
           <h1>Your Choice here.....</h1>
-          <Button   variant="outline-secondary" >Shopping</Button>
+          <Button variant="outline-secondary" >Shopping</Button>
           </div>
         </Container>
       </div>
@@ -66,8 +66,7 @@ const Home = () => {
               </Card.Body>
               </div>
             </Card>
-            
-          </Col>
+            </Col>
         </Row>
        
       </Container>
